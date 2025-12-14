@@ -1,7 +1,7 @@
 
-  # Vynora
+  # Houseofglen
 
-  This is a code bundle for Vynora. The original project is available at https://www.figma.com/design/OUUVp1lAYh27oYSFcr5Hsx/Vynora.
+  This is a code bundle for Houseofglen. The original project is available at https://www.figma.com/design/OUUVp1lAYh27oYSFcr5Hsx/Vynora.
 
   ## Running the code
 
