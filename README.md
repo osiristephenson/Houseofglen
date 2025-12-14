@@ -1,9 +1,7 @@
 
   # Houseofglen
 
-  This is a code bundle for Houseofglen. The original project is available at https://www.figma.com/design/OUUVp1lAYh27oYSFcr5Hsx/Vynora.
-
-  ## Running the code
+    ## Running the code
 
   Run `npm i` to install the dependencies.
 
